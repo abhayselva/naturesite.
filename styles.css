@@ -1,0 +1,14 @@
+/** @format */
+
+div.big {
+  height: 80vh;
+  width: 100vw;
+  background-image: url("images/elephant.jpg");
+  color: aliceblue;
+  background-size: cover;
+  background-position: center;
+}
+.pad {
+  background-image: linear-gradient(#16222a, #71b280);
+  color: antiquewhite;
+}
